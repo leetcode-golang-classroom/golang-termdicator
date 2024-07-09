@@ -23,3 +23,11 @@ github.com/gorilla/websocket
 ```
 https://github.com/nsf/termbox-go
 ```
+
+## data flow
+
+![data flow](data-flow.png)
+
+## console view
+
+![console-view](console-view.png)

@@ -9,4 +9,7 @@ require (
 	github.com/nsf/termbox-go v1.1.1
 )
 
-require github.com/rivo/uniseg v0.2.0 // indirect
+require (
+	github.com/micmonay/keybd_event v1.1.2 // indirect
+	github.com/rivo/uniseg v0.2.0 // indirect
+)
